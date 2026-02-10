@@ -1,0 +1,32 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+*.mltbx
+
+# Simulink autosave
+*.slxc
+*.autosave
+
+# MATLAB code generation
+codegen/
+slprj/
+
+# Results directory (generated at runtime)
+results_v3/
+
+# MATLAB workspace
+*.mat
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
